@@ -50,3 +50,4 @@ public class L2022212005_15_Test {
         assertEquals(1, solution.compareVersion("1.2", "1.1"));
     }
 }
+//使用了Junit编写Test方法 专业
